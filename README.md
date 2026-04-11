@@ -18,7 +18,7 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/rnxcode/777
+git clone https://github.com/byebyedev/777
 cd 777
 pip install -r requirements.txt
 python main.py
